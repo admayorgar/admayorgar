@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Andrea Mayorga! 
 
 🌱 I’m currently learning about:
-- Testing QA
+- Testing QA - Automation
 - Fullstack PHP develpment
 - Analysis and development of information systems.
 
