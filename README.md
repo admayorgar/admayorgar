@@ -10,12 +10,12 @@
 👯 I'm a Functional Analyst and QC Tester in an Insurance Company.
 Tasks I am responsible for:
 
-- Functional Documentation
-- Survey of new requirements
+- Requirements Management and Traceability.
+- Assistance and support to systems users.
 - Bugs report, Test design and Execution.
 - Smoke test, Black Box Testing.
 - API Testing.
-- Assistance and support to systems users.
+
 
 Tools:
 
